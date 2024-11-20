@@ -1,0 +1,73 @@
+
+.producto {
+    border: 1px solid #ddd; 
+    padding: 10px;            
+    margin: 10px;             
+    max-width: 300px;         
+    background-color: #f5e3e7c4;  
+    border-radius: 8px;       
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+}
+
+.producto:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+}
+
+
+img {
+    width: 100%;
+    height: auto; 
+    border-radius: 8px; 
+}
+
+
+.product-image {
+    max-width: 200px;      
+    max-height: 200px;      
+    margin: 0 auto;         
+    display: block;         
+}
+
+
+.card {
+    max-width: 600px;      
+    margin: 20px auto;     
+    border-radius: 8px;    
+    background-color: #f9f9f9; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+
+.card:hover {
+    background-color: rgb(185, 185, 221);  
+    transform: scale(1.05);   
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);  
+}
+
+
+.card-title {
+    font-size: 1.5rem;    
+    font-weight: bold;    
+    color: #333;          
+    text-align: center;   
+}
+
+
+.card-text {
+    font-size: 1rem;     
+    color: #555;        
+    margin-top: 10px;     
+    text-align: center;   
+}
+
+
+.card-price {
+    font-size: 1.25rem;   
+    font-weight: bold;    
+    color: #28a745;     
+    text-align: center;   
+    margin-top: 15px;    
+}

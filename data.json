@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Vestido #1",
+      "description": "Vestido de novia sofisticado, elegante y magnífico, con detalles en encaje y una falda fluida que resalta la figura.",
+      "image": "vestido1.jpg",
+      "cost": 699.99
+    },
+    {
+      "title": "Vestido #2",
+      "description": "Un vestido de novia de corte A-line, con tela satinada de alta calidad, cómodo de portar y con un toque romántico en el escote.",
+      "image": "vestido2.jpeg",
+      "cost": 729.67
+    },
+    {
+      "title": "Vestido #3",
+      "description": "Vestido de novia estilo princesa, con corset ajustado y falda de volantes en tul, ideal para una boda de cuento de hadas.",
+      "image": "vestido3.jpg",
+      "cost": 799.99
+    },
+    {
+      "title": "Vestido #4",
+      "description": "Vestido de novia de corte sirena, con detalles de pedrería y un elegante escote en V, que resalta la figura femenina.",
+      "image": "vestido4.jpg",
+      "cost": 899.99
+    },
+    {
+      "title": "Vestido #5",
+      "description": "Vestido de novia bohemio, con encaje y transparencias en la parte superior, y una falda fluida que te permitirá moverte con gracia.",
+      "image": "vestido5.jpg",
+      "cost": 949.99
+    },
+    {
+      "title": "Vestido #6",
+      "description": "Vestido de novia estilo vintage, con detalles en perlas y bordado, ideal para una boda clásica y elegante.",
+      "image": "vestido6.jpg",
+      "cost": 799.99
+    },
+    {
+      "title": "Vestido #7",
+      "description": "Vestido de novia de corte princesa con capa y un elegante bordado en hilo dorado, para una ceremonia majestuosa.",
+      "image": "vestido7.jpeg",
+      "cost": 1299.99
+    },
+    {
+      "title": "Vestido #8",
+      "description": "Vestido de novia moderno con una mezcla de texturas: satén, encaje y detalles en cristal. Perfecto para novias que buscan un look contemporáneo.",
+      "image": "vestido8.jpg",
+      "cost": 1299.99
+    },
+    {
+      "title": "Vestido #9",
+      "description": "Vestido de novia romántico con falda de tul y corset de encaje, para un look delicado y lleno de elegancia.",
+      "image": "vestido9.jpg",
+      "cost": 849.99
+    },
+    {
+      "title": "Vestido #10",
+      "description": "Vestido de novia de corte A-line con detalles en encaje, un delicado escote en corazón y una falda que fluye suavemente.",
+      "image": "vestido10.jpg",
+      "cost": 899.99
+    }
+  ]
+  
